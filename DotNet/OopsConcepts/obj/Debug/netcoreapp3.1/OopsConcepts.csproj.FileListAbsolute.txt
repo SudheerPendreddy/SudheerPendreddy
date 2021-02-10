@@ -1,0 +1,13 @@
+C:\Projects\DotNet\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.exe
+C:\Projects\DotNet\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.deps.json
+C:\Projects\DotNet\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.runtimeconfig.json
+C:\Projects\DotNet\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.runtimeconfig.dev.json
+C:\Projects\DotNet\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.dll
+C:\Projects\DotNet\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.pdb
+C:\Projects\DotNet\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.csprojAssemblyReference.cache
+C:\Projects\DotNet\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.AssemblyInfoInputs.cache
+C:\Projects\DotNet\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.AssemblyInfo.cs
+C:\Projects\DotNet\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.csproj.CoreCompileInputs.cache
+C:\Projects\DotNet\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.dll
+C:\Projects\DotNet\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.pdb
+C:\Projects\DotNet\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.genruntimeconfig.cache
